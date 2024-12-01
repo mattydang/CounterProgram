@@ -15,5 +15,8 @@ Used to create buttons for functions, label for number changing, and linking CSS
 
 Used for styling of buttons, numbers, and any visuals on program.
 
+## Views of Project
+[<img width="1440" alt="Screenshot 2024-12-01 at 3 02 39 PM" src="https://github.com/user-attachments/assets/1ce16e26-76ce-4da7-975a-24db3ee86317">]
+
 ## Author
 - [Anh Vu Dang](https://github.com/mattydang)
