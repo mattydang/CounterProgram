@@ -1,4 +1,4 @@
-# SolitaireGame
+# CounterProgram
 Sample Counter Program completed on JavaScript. Project used to practice JavaScript functions, along with HTML and CSS styling. Project runnable with Live Server extension.
 
 ## Technologies Used:
